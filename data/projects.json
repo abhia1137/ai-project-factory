@@ -1,0 +1,2590 @@
+{
+  "version": 1,
+  "githubOwner": "abhia1137",
+  "daysPerProject": 4,
+  "commitsPerDay": 3,
+  "priorityQueue": [
+    "ai-resume-optimizer",
+    "ai-job-application-tracker",
+    "ai-interview-answer-coach",
+    "ai-linkedin-profile-improver",
+    "ai-cold-email-generator",
+    "ai-pdf-invoice-extractor",
+    "ai-bank-statement-analyzer",
+    "ai-customer-support-chatbot",
+    "ai-whatsapp-business-assistant",
+    "ai-meeting-notes-summarizer",
+    "ai-code-review-assistant",
+    "ai-sql-query-generator",
+    "ai-dashboard-insight-generator",
+    "ai-sales-lead-scorer",
+    "ai-ecommerce-product-description-writer",
+    "ai-document-q-a-bot",
+    "ai-contract-risk-checker",
+    "ai-helpdesk-ticket-classifier",
+    "ai-expense-categorizer",
+    "ai-trading-news-sentiment-tracker",
+    "ai-content-calendar-generator",
+    "ai-youtube-video-summarizer",
+    "ai-course-learning-assistant",
+    "ai-language-learning-tutor",
+    "ai-local-business-website-chatbot"
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "AI Resume Optimizer",
+      "slug": "ai-resume-optimizer",
+      "category": "Job, Career, HR",
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "name": "AI cover letter generator",
+      "slug": "ai-cover-letter-generator",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 3,
+      "name": "AI LinkedIn Profile Improver",
+      "slug": "ai-linkedin-profile-improver",
+      "category": "Job, Career, HR",
+      "priority": 1
+    },
+    {
+      "id": 4,
+      "name": "AI linkedIn About section generator",
+      "slug": "ai-linkedin-about-section-generator",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 5,
+      "name": "AI job matching platform",
+      "slug": "ai-job-matching-platform",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 6,
+      "name": "AI ATS score checker",
+      "slug": "ai-ats-score-checker",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 7,
+      "name": "AI interview question generator",
+      "slug": "ai-interview-question-generator",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 8,
+      "name": "AI Interview Answer Coach",
+      "slug": "ai-interview-answer-coach",
+      "category": "Job, Career, HR",
+      "priority": 1
+    },
+    {
+      "id": 9,
+      "name": "AI salary negotiation coach",
+      "slug": "ai-salary-negotiation-coach",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 10,
+      "name": "AI recruiter email generator",
+      "slug": "ai-recruiter-email-generator",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 11,
+      "name": "AI candidate screening assistant",
+      "slug": "ai-candidate-screening-assistant",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 12,
+      "name": "AI hR policy Q&A bot",
+      "slug": "ai-hr-policy-q-a-bot",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 13,
+      "name": "AI employee onboarding assistant",
+      "slug": "ai-employee-onboarding-assistant",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 14,
+      "name": "AI exit interview analyzer",
+      "slug": "ai-exit-interview-analyzer",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 15,
+      "name": "AI skill gap analyzer",
+      "slug": "ai-skill-gap-analyzer",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 16,
+      "name": "AI career roadmap generator",
+      "slug": "ai-career-roadmap-generator",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 17,
+      "name": "AI portfolio project recommender",
+      "slug": "ai-portfolio-project-recommender",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 18,
+      "name": "AI freelancer proposal generator",
+      "slug": "ai-freelancer-proposal-generator",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 19,
+      "name": "AI upwork/Toptal proposal assistant",
+      "slug": "ai-upwork-toptal-proposal-assistant",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 20,
+      "name": "AI job alert summarizer",
+      "slug": "ai-job-alert-summarizer",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 21,
+      "name": "AI Job Application Tracker",
+      "slug": "ai-job-application-tracker",
+      "category": "Job, Career, HR",
+      "priority": 1
+    },
+    {
+      "id": 22,
+      "name": "AI interview feedback analyzer",
+      "slug": "ai-interview-feedback-analyzer",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 23,
+      "name": "AI technical round preparation bot",
+      "slug": "ai-technical-round-preparation-bot",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 24,
+      "name": "AI gitHub profile analyzer",
+      "slug": "ai-github-profile-analyzer",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 25,
+      "name": "AI resume bullet point improver",
+      "slug": "ai-resume-bullet-point-improver",
+      "category": "Job, Career, HR",
+      "priority": 0
+    },
+    {
+      "id": 26,
+      "name": "AI business idea validator",
+      "slug": "ai-business-idea-validator",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 27,
+      "name": "AI startup pitch deck generator",
+      "slug": "ai-startup-pitch-deck-generator",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 28,
+      "name": "AI market research assistant",
+      "slug": "ai-market-research-assistant",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 29,
+      "name": "AI competitor analysis bot",
+      "slug": "ai-competitor-analysis-bot",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 30,
+      "name": "AI business plan generator",
+      "slug": "ai-business-plan-generator",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 31,
+      "name": "AI pricing strategy assistant",
+      "slug": "ai-pricing-strategy-assistant",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 32,
+      "name": "AI customer persona generator",
+      "slug": "ai-customer-persona-generator",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 33,
+      "name": "AI sales script generator",
+      "slug": "ai-sales-script-generator",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 34,
+      "name": "AI Cold Email Generator",
+      "slug": "ai-cold-email-generator",
+      "category": "Business and Consultancy",
+      "priority": 1
+    },
+    {
+      "id": 35,
+      "name": "AI lead qualification assistant",
+      "slug": "ai-lead-qualification-assistant",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 36,
+      "name": "AI cRM note summarizer",
+      "slug": "ai-crm-note-summarizer",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 37,
+      "name": "AI sales call summary bot",
+      "slug": "ai-sales-call-summary-bot",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 38,
+      "name": "AI client proposal generator",
+      "slug": "ai-client-proposal-generator",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 39,
+      "name": "AI invoice follow-up email bot",
+      "slug": "ai-invoice-follow-up-email-bot",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 40,
+      "name": "AI business name generator",
+      "slug": "ai-business-name-generator",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 41,
+      "name": "AI domain name suggestion tool",
+      "slug": "ai-domain-name-suggestion-tool",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 42,
+      "name": "AI website copy generator",
+      "slug": "ai-website-copy-generator",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 43,
+      "name": "AI landing page audit bot",
+      "slug": "ai-landing-page-audit-bot",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 44,
+      "name": "AI business process automation advisor",
+      "slug": "ai-business-process-automation-advisor",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 45,
+      "name": "AI SOP generator",
+      "slug": "ai-sop-generator",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 46,
+      "name": "AI client requirement analyzer",
+      "slug": "ai-client-requirement-analyzer",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 47,
+      "name": "AI Local Business Website Chatbot",
+      "slug": "ai-local-business-website-chatbot",
+      "category": "Business and Consultancy",
+      "priority": 1
+    },
+    {
+      "id": 48,
+      "name": "AI freelance service package generator",
+      "slug": "ai-freelance-service-package-generator",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 49,
+      "name": "AI project estimation tool",
+      "slug": "ai-project-estimation-tool",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 50,
+      "name": "AI client onboarding assistant",
+      "slug": "ai-client-onboarding-assistant",
+      "category": "Business and Consultancy",
+      "priority": 0
+    },
+    {
+      "id": 51,
+      "name": "AI Document Q&A Bot",
+      "slug": "ai-document-q-a-bot",
+      "category": "Document AI",
+      "priority": 1
+    },
+    {
+      "id": 52,
+      "name": "AI PDF Invoice Extractor",
+      "slug": "ai-pdf-invoice-extractor",
+      "category": "Document AI",
+      "priority": 1
+    },
+    {
+      "id": 53,
+      "name": "AI receipt scanner",
+      "slug": "ai-receipt-scanner",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 54,
+      "name": "AI contract summarizer",
+      "slug": "ai-contract-summarizer",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 55,
+      "name": "AI Contract Risk Checker",
+      "slug": "ai-contract-risk-checker",
+      "category": "Document AI",
+      "priority": 1
+    },
+    {
+      "id": 56,
+      "name": "AI legal clause explainer",
+      "slug": "ai-legal-clause-explainer",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 57,
+      "name": "AI Bank Statement Analyzer",
+      "slug": "ai-bank-statement-analyzer",
+      "category": "Document AI",
+      "priority": 1
+    },
+    {
+      "id": 58,
+      "name": "AI resume parser",
+      "slug": "ai-resume-parser",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 59,
+      "name": "AI insurance policy explainer",
+      "slug": "ai-insurance-policy-explainer",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 60,
+      "name": "AI medical report summarizer",
+      "slug": "ai-medical-report-summarizer",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 61,
+      "name": "AI Academic paper summarizer",
+      "slug": "ai-academic-paper-summarizer",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 62,
+      "name": "AI research paper Q&A bot",
+      "slug": "ai-research-paper-q-a-bot",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 63,
+      "name": "AI tender document analyzer",
+      "slug": "ai-tender-document-analyzer",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 64,
+      "name": "AI rFP response generator",
+      "slug": "ai-rfp-response-generator",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 65,
+      "name": "AI compliance document checker",
+      "slug": "ai-compliance-document-checker",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 66,
+      "name": "AI pDF table extractor",
+      "slug": "ai-pdf-table-extractor",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 67,
+      "name": "AI scanned form digitizer",
+      "slug": "ai-scanned-form-digitizer",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 68,
+      "name": "AI kYC document checker",
+      "slug": "ai-kyc-document-checker",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 69,
+      "name": "AI loan document analyzer",
+      "slug": "ai-loan-document-analyzer",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 70,
+      "name": "AI lease agreement explainer",
+      "slug": "ai-lease-agreement-explainer",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 71,
+      "name": "AI tax document organizer",
+      "slug": "ai-tax-document-organizer",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 72,
+      "name": "AI warranty document tracker",
+      "slug": "ai-warranty-document-tracker",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 73,
+      "name": "AI terms and conditions summarizer",
+      "slug": "ai-terms-and-conditions-summarizer",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 74,
+      "name": "AI privacy policy generator",
+      "slug": "ai-privacy-policy-generator",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 75,
+      "name": "AI document comparison tool",
+      "slug": "ai-document-comparison-tool",
+      "category": "Document AI",
+      "priority": 0
+    },
+    {
+      "id": 76,
+      "name": "AI Code Review Assistant",
+      "slug": "ai-code-review-assistant",
+      "category": "Developer Tools",
+      "priority": 1
+    },
+    {
+      "id": 77,
+      "name": "AI bug explanation assistant",
+      "slug": "ai-bug-explanation-assistant",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 78,
+      "name": "AI pull request summarizer",
+      "slug": "ai-pull-request-summarizer",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 79,
+      "name": "AI git commit message generator",
+      "slug": "ai-git-commit-message-generator",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 80,
+      "name": "AI test case generator",
+      "slug": "ai-test-case-generator",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 81,
+      "name": "AI unit test writer",
+      "slug": "ai-unit-test-writer",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 82,
+      "name": "AI API documentation generator",
+      "slug": "ai-api-documentation-generator",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 83,
+      "name": "AI SQL Query Generator",
+      "slug": "ai-sql-query-generator",
+      "category": "Developer Tools",
+      "priority": 1
+    },
+    {
+      "id": 84,
+      "name": "AI regex generator",
+      "slug": "ai-regex-generator",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 85,
+      "name": "AI error log explainer",
+      "slug": "ai-error-log-explainer",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 86,
+      "name": "AI stack trace analyzer",
+      "slug": "ai-stack-trace-analyzer",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 87,
+      "name": "AI code refactoring assistant",
+      "slug": "ai-code-refactoring-assistant",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 88,
+      "name": "AI legacy code explainer",
+      "slug": "ai-legacy-code-explainer",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 89,
+      "name": "AI typeScript type generator",
+      "slug": "ai-typescript-type-generator",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 90,
+      "name": "AI jSON schema generator",
+      "slug": "ai-json-schema-generator",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 91,
+      "name": "AI backend endpoint generator",
+      "slug": "ai-backend-endpoint-generator",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 92,
+      "name": "AI frontend component generator",
+      "slug": "ai-frontend-component-generator",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 93,
+      "name": "AI react form generator",
+      "slug": "ai-react-form-generator",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 94,
+      "name": "AI database schema assistant",
+      "slug": "ai-database-schema-assistant",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 95,
+      "name": "AI migration script generator",
+      "slug": "ai-migration-script-generator",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 96,
+      "name": "AI code security scanner",
+      "slug": "ai-code-security-scanner",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 97,
+      "name": "AI dependency risk checker",
+      "slug": "ai-dependency-risk-checker",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 98,
+      "name": "AI dockerfile generator",
+      "slug": "ai-dockerfile-generator",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 99,
+      "name": "AI cI/CD pipeline assistant",
+      "slug": "ai-ci-cd-pipeline-assistant",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 100,
+      "name": "AI pair programming chat",
+      "slug": "ai-pair-programming-chat",
+      "category": "Developer Tools",
+      "priority": 0
+    },
+    {
+      "id": 101,
+      "name": "AI cSV data cleaner",
+      "slug": "ai-csv-data-cleaner",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 102,
+      "name": "AI data quality checker",
+      "slug": "ai-data-quality-checker",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 103,
+      "name": "AI eTL pipeline generator",
+      "slug": "ai-etl-pipeline-generator",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 104,
+      "name": "AI data mapping assistant",
+      "slug": "ai-data-mapping-assistant",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 105,
+      "name": "AI sQL data profiler",
+      "slug": "ai-sql-data-profiler",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 106,
+      "name": "AI duplicate record detector",
+      "slug": "ai-duplicate-record-detector",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 107,
+      "name": "AI missing value explainer",
+      "slug": "ai-missing-value-explainer",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 108,
+      "name": "AI Dashboard Insight Generator",
+      "slug": "ai-dashboard-insight-generator",
+      "category": "Data Engineering and Analytics",
+      "priority": 1
+    },
+    {
+      "id": 109,
+      "name": "AI natural language to SQL",
+      "slug": "ai-natural-language-to-sql",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 110,
+      "name": "AI business KPI explainer",
+      "slug": "ai-business-kpi-explainer",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 111,
+      "name": "AI Automated weekly analytics report",
+      "slug": "ai-automated-weekly-analytics-report",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 112,
+      "name": "AI sales trend analyzer",
+      "slug": "ai-sales-trend-analyzer",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 113,
+      "name": "AI customer churn predictor",
+      "slug": "ai-customer-churn-predictor",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 114,
+      "name": "AI revenue forecast model",
+      "slug": "ai-revenue-forecast-model",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 115,
+      "name": "AI inventory demand predictor",
+      "slug": "ai-inventory-demand-predictor",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 116,
+      "name": "AI data warehouse schema advisor",
+      "slug": "ai-data-warehouse-schema-advisor",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 117,
+      "name": "AI Anomaly detection dashboard",
+      "slug": "ai-anomaly-detection-dashboard",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 118,
+      "name": "AI marketing campaign analyzer",
+      "slug": "ai-marketing-campaign-analyzer",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 119,
+      "name": "AI log analytics assistant",
+      "slug": "ai-log-analytics-assistant",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 120,
+      "name": "AI data lineage explainer",
+      "slug": "ai-data-lineage-explainer",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 121,
+      "name": "AI Airflow DAG generator",
+      "slug": "ai-airflow-dag-generator",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 122,
+      "name": "AI spark job optimizer assistant",
+      "slug": "ai-spark-job-optimizer-assistant",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 123,
+      "name": "AI data validation rule generator",
+      "slug": "ai-data-validation-rule-generator",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 124,
+      "name": "AI metabase insight assistant",
+      "slug": "ai-metabase-insight-assistant",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 125,
+      "name": "AI executive summary generator from dashboard",
+      "slug": "ai-executive-summary-generator-from-dashboard",
+      "category": "Data Engineering and Analytics",
+      "priority": 0
+    },
+    {
+      "id": 126,
+      "name": "AI Ecommerce Product Description Writer",
+      "slug": "ai-ecommerce-product-description-writer",
+      "category": "Ecommerce",
+      "priority": 1
+    },
+    {
+      "id": 127,
+      "name": "AI product title optimizer",
+      "slug": "ai-product-title-optimizer",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 128,
+      "name": "AI review sentiment analyzer",
+      "slug": "ai-review-sentiment-analyzer",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 129,
+      "name": "AI fake review detector",
+      "slug": "ai-fake-review-detector",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 130,
+      "name": "AI product recommendation engine",
+      "slug": "ai-product-recommendation-engine",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 131,
+      "name": "AI cart abandonment email generator",
+      "slug": "ai-cart-abandonment-email-generator",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 132,
+      "name": "AI Customer Support Chatbot",
+      "slug": "ai-customer-support-chatbot",
+      "category": "Ecommerce",
+      "priority": 1
+    },
+    {
+      "id": 133,
+      "name": "AI return reason analyzer",
+      "slug": "ai-return-reason-analyzer",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 134,
+      "name": "AI size recommendation assistant",
+      "slug": "ai-size-recommendation-assistant",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 135,
+      "name": "AI product image caption generator",
+      "slug": "ai-product-image-caption-generator",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 136,
+      "name": "AI sEO keyword generator",
+      "slug": "ai-seo-keyword-generator",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 137,
+      "name": "AI price comparison assistant",
+      "slug": "ai-price-comparison-assistant",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 138,
+      "name": "AI discount strategy bot",
+      "slug": "ai-discount-strategy-bot",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 139,
+      "name": "AI inventory restock predictor",
+      "slug": "ai-inventory-restock-predictor",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 140,
+      "name": "AI supplier email assistant",
+      "slug": "ai-supplier-email-assistant",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 141,
+      "name": "AI marketplace listing optimizer",
+      "slug": "ai-marketplace-listing-optimizer",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 142,
+      "name": "AI Amazon listing analyzer",
+      "slug": "ai-amazon-listing-analyzer",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 143,
+      "name": "AI shopify AI assistant",
+      "slug": "ai-shopify-ai-assistant",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 144,
+      "name": "AI product FAQ generator",
+      "slug": "ai-product-faq-generator",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 145,
+      "name": "AI customer complaint classifier",
+      "slug": "ai-customer-complaint-classifier",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 146,
+      "name": "AI upsell recommendation engine",
+      "slug": "ai-upsell-recommendation-engine",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 147,
+      "name": "AI fashion stylist",
+      "slug": "ai-fashion-stylist",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 148,
+      "name": "AI gift recommender",
+      "slug": "ai-gift-recommender",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 149,
+      "name": "AI order tracking chatbot",
+      "slug": "ai-order-tracking-chatbot",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 150,
+      "name": "AI ecommerce analytics chatbot",
+      "slug": "ai-ecommerce-analytics-chatbot",
+      "category": "Ecommerce",
+      "priority": 0
+    },
+    {
+      "id": 151,
+      "name": "AI Expense Categorizer",
+      "slug": "ai-expense-categorizer",
+      "category": "Finance and Trading",
+      "priority": 1
+    },
+    {
+      "id": 152,
+      "name": "AI budget planner",
+      "slug": "ai-budget-planner",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 153,
+      "name": "AI financial habit coach",
+      "slug": "ai-financial-habit-coach",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 154,
+      "name": "AI bank transaction summarizer",
+      "slug": "ai-bank-transaction-summarizer",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 155,
+      "name": "AI Trading News Sentiment Tracker",
+      "slug": "ai-trading-news-sentiment-tracker",
+      "category": "Finance and Trading",
+      "priority": 1
+    },
+    {
+      "id": 156,
+      "name": "AI portfolio risk analyzer",
+      "slug": "ai-portfolio-risk-analyzer",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 157,
+      "name": "AI mutual fund explainer",
+      "slug": "ai-mutual-fund-explainer",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 158,
+      "name": "AI sIP planner assistant",
+      "slug": "ai-sip-planner-assistant",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 159,
+      "name": "AI crypto news summarizer",
+      "slug": "ai-crypto-news-summarizer",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 160,
+      "name": "AI trading journal analyzer",
+      "slug": "ai-trading-journal-analyzer",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 161,
+      "name": "AI backtesting report generator",
+      "slug": "ai-backtesting-report-generator",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 162,
+      "name": "AI technical indicator explainer",
+      "slug": "ai-technical-indicator-explainer",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 163,
+      "name": "AI stock watchlist assistant",
+      "slug": "ai-stock-watchlist-assistant",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 164,
+      "name": "AI earnings call summarizer",
+      "slug": "ai-earnings-call-summarizer",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 165,
+      "name": "AI financial statement analyzer",
+      "slug": "ai-financial-statement-analyzer",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 166,
+      "name": "AI loan EMI advisor",
+      "slug": "ai-loan-emi-advisor",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 167,
+      "name": "AI credit card bill analyzer",
+      "slug": "ai-credit-card-bill-analyzer",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 168,
+      "name": "AI tax saving assistant",
+      "slug": "ai-tax-saving-assistant",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 169,
+      "name": "AI invoice payment predictor",
+      "slug": "ai-invoice-payment-predictor",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 170,
+      "name": "AI fraud transaction detector",
+      "slug": "ai-fraud-transaction-detector",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 171,
+      "name": "AI stock screener",
+      "slug": "ai-stock-screener",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 172,
+      "name": "AI options strategy explainer",
+      "slug": "ai-options-strategy-explainer",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 173,
+      "name": "AI market news digest bot",
+      "slug": "ai-market-news-digest-bot",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 174,
+      "name": "AI dividend tracker",
+      "slug": "ai-dividend-tracker",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 175,
+      "name": "AI trading bot rule simulator",
+      "slug": "ai-trading-bot-rule-simulator",
+      "category": "Finance and Trading",
+      "priority": 0
+    },
+    {
+      "id": 176,
+      "name": "AI study planner",
+      "slug": "ai-study-planner",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 177,
+      "name": "AI personalized tutor chatbot",
+      "slug": "ai-personalized-tutor-chatbot",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 178,
+      "name": "AI flashcard generator",
+      "slug": "ai-flashcard-generator",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 179,
+      "name": "AI quiz generator",
+      "slug": "ai-quiz-generator",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 180,
+      "name": "AI exam revision assistant",
+      "slug": "ai-exam-revision-assistant",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 181,
+      "name": "AI notes summarizer",
+      "slug": "ai-notes-summarizer",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 182,
+      "name": "AI lecture transcript summarizer",
+      "slug": "ai-lecture-transcript-summarizer",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 183,
+      "name": "AI YouTube Video Summarizer",
+      "slug": "ai-youtube-video-summarizer",
+      "category": "Education and Learning",
+      "priority": 1
+    },
+    {
+      "id": 184,
+      "name": "AI coding tutor",
+      "slug": "ai-coding-tutor",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 185,
+      "name": "AI math problem explainer",
+      "slug": "ai-math-problem-explainer",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 186,
+      "name": "AI Language Learning Tutor",
+      "slug": "ai-language-learning-tutor",
+      "category": "Education and Learning",
+      "priority": 1
+    },
+    {
+      "id": 187,
+      "name": "AI french practice chatbot",
+      "slug": "ai-french-practice-chatbot",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 188,
+      "name": "AI vocabulary trainer",
+      "slug": "ai-vocabulary-trainer",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 189,
+      "name": "AI grammar correction assistant",
+      "slug": "ai-grammar-correction-assistant",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 190,
+      "name": "AI essay feedback bot",
+      "slug": "ai-essay-feedback-bot",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 191,
+      "name": "AI Assignment helper",
+      "slug": "ai-assignment-helper",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 192,
+      "name": "AI Course Learning Assistant",
+      "slug": "ai-course-learning-assistant",
+      "category": "Education and Learning",
+      "priority": 1
+    },
+    {
+      "id": 193,
+      "name": "AI learning progress tracker",
+      "slug": "ai-learning-progress-tracker",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 194,
+      "name": "AI textbook Q&A",
+      "slug": "ai-textbook-q-a",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 195,
+      "name": "AI interview prep course generator",
+      "slug": "ai-interview-prep-course-generator",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 196,
+      "name": "AI daily learning reminder bot",
+      "slug": "ai-daily-learning-reminder-bot",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 197,
+      "name": "AI concept explanation simplifier",
+      "slug": "ai-concept-explanation-simplifier",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 198,
+      "name": "AI student doubt solver",
+      "slug": "ai-student-doubt-solver",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 199,
+      "name": "AI mCQ generator",
+      "slug": "ai-mcq-generator",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 200,
+      "name": "AI pronunciation coach",
+      "slug": "ai-pronunciation-coach",
+      "category": "Education and Learning",
+      "priority": 0
+    },
+    {
+      "id": 201,
+      "name": "AI symptom note organizer",
+      "slug": "ai-symptom-note-organizer",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 202,
+      "name": "AI medicine reminder assistant",
+      "slug": "ai-medicine-reminder-assistant",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 203,
+      "name": "AI diet planner",
+      "slug": "ai-diet-planner",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 204,
+      "name": "AI vegetarian protein planner",
+      "slug": "ai-vegetarian-protein-planner",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 205,
+      "name": "AI workout plan generator",
+      "slug": "ai-workout-plan-generator",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 206,
+      "name": "AI sleep habit tracker",
+      "slug": "ai-sleep-habit-tracker",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 207,
+      "name": "AI skin rash journal analyzer",
+      "slug": "ai-skin-rash-journal-analyzer",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 208,
+      "name": "AI health report explainer",
+      "slug": "ai-health-report-explainer",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 209,
+      "name": "AI doctor visit prep assistant",
+      "slug": "ai-doctor-visit-prep-assistant",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 210,
+      "name": "AI mental wellness journaling bot",
+      "slug": "ai-mental-wellness-journaling-bot",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 211,
+      "name": "AI calorie estimator from meals",
+      "slug": "ai-calorie-estimator-from-meals",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 212,
+      "name": "AI water intake reminder",
+      "slug": "ai-water-intake-reminder",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 213,
+      "name": "AI pain tracking app",
+      "slug": "ai-pain-tracking-app",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 214,
+      "name": "AI physiotherapy exercise guide",
+      "slug": "ai-physiotherapy-exercise-guide",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 215,
+      "name": "AI habit coach",
+      "slug": "ai-habit-coach",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 216,
+      "name": "AI fitness progress analyzer",
+      "slug": "ai-fitness-progress-analyzer",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 217,
+      "name": "AI meal prep assistant",
+      "slug": "ai-meal-prep-assistant",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 218,
+      "name": "AI Allergy tracker",
+      "slug": "ai-allergy-tracker",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 219,
+      "name": "AI health insurance policy explainer",
+      "slug": "ai-health-insurance-policy-explainer",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 220,
+      "name": "AI medical appointment summarizer",
+      "slug": "ai-medical-appointment-summarizer",
+      "category": "Healthcare and Wellness",
+      "priority": 0
+    },
+    {
+      "id": 221,
+      "name": "AI blog post generator",
+      "slug": "ai-blog-post-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 222,
+      "name": "AI sEO article generator",
+      "slug": "ai-seo-article-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 223,
+      "name": "AI twitter/X thread generator",
+      "slug": "ai-twitter-x-thread-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 224,
+      "name": "AI linkedIn post generator",
+      "slug": "ai-linkedin-post-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 225,
+      "name": "AI instagram caption generator",
+      "slug": "ai-instagram-caption-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 226,
+      "name": "AI youTube script generator",
+      "slug": "ai-youtube-script-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 227,
+      "name": "AI reel idea generator",
+      "slug": "ai-reel-idea-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 228,
+      "name": "AI podcast summary generator",
+      "slug": "ai-podcast-summary-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 229,
+      "name": "AI newsletter writer",
+      "slug": "ai-newsletter-writer",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 230,
+      "name": "AI Content Calendar Generator",
+      "slug": "ai-content-calendar-generator",
+      "category": "Content Creation",
+      "priority": 1
+    },
+    {
+      "id": 231,
+      "name": "AI meme caption generator",
+      "slug": "ai-meme-caption-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 232,
+      "name": "AI script-to-short-video planner",
+      "slug": "ai-script-to-short-video-planner",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 233,
+      "name": "AI thumbnail title generator",
+      "slug": "ai-thumbnail-title-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 234,
+      "name": "AI email newsletter summarizer",
+      "slug": "ai-email-newsletter-summarizer",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 235,
+      "name": "AI personal brand content assistant",
+      "slug": "ai-personal-brand-content-assistant",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 236,
+      "name": "AI viral hook generator",
+      "slug": "ai-viral-hook-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 237,
+      "name": "AI blog outline generator",
+      "slug": "ai-blog-outline-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 238,
+      "name": "AI case study writer",
+      "slug": "ai-case-study-writer",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 239,
+      "name": "AI product launch content generator",
+      "slug": "ai-product-launch-content-generator",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 240,
+      "name": "AI content repurposer",
+      "slug": "ai-content-repurposer",
+      "category": "Content Creation",
+      "priority": 0
+    },
+    {
+      "id": 241,
+      "name": "AI Ad copy generator",
+      "slug": "ai-ad-copy-generator",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 242,
+      "name": "AI google Ads keyword assistant",
+      "slug": "ai-google-ads-keyword-assistant",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 243,
+      "name": "AI facebook Ads copy generator",
+      "slug": "ai-facebook-ads-copy-generator",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 244,
+      "name": "AI landing page copy auditor",
+      "slug": "ai-landing-page-copy-auditor",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 245,
+      "name": "AI email campaign generator",
+      "slug": "ai-email-campaign-generator",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 246,
+      "name": "AI sales objection handler",
+      "slug": "ai-sales-objection-handler",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 247,
+      "name": "AI Sales Lead Scorer",
+      "slug": "ai-sales-lead-scorer",
+      "category": "Marketing and Sales",
+      "priority": 1
+    },
+    {
+      "id": 248,
+      "name": "AI customer segmentation tool",
+      "slug": "ai-customer-segmentation-tool",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 249,
+      "name": "AI marketing report summarizer",
+      "slug": "ai-marketing-report-summarizer",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 250,
+      "name": "AI campaign performance analyzer",
+      "slug": "ai-campaign-performance-analyzer",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 251,
+      "name": "AI brand voice generator",
+      "slug": "ai-brand-voice-generator",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 252,
+      "name": "AI customer survey analyzer",
+      "slug": "ai-customer-survey-analyzer",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 253,
+      "name": "AI testimonial generator from reviews",
+      "slug": "ai-testimonial-generator-from-reviews",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 254,
+      "name": "AI referral campaign planner",
+      "slug": "ai-referral-campaign-planner",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 255,
+      "name": "AI influencer outreach assistant",
+      "slug": "ai-influencer-outreach-assistant",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 256,
+      "name": "AI webinar script generator",
+      "slug": "ai-webinar-script-generator",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 257,
+      "name": "AI sales funnel analyzer",
+      "slug": "ai-sales-funnel-analyzer",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 258,
+      "name": "AI competitor ad analyzer",
+      "slug": "ai-competitor-ad-analyzer",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 259,
+      "name": "AI social listening bot",
+      "slug": "ai-social-listening-bot",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 260,
+      "name": "AI product positioning assistant",
+      "slug": "ai-product-positioning-assistant",
+      "category": "Marketing and Sales",
+      "priority": 0
+    },
+    {
+      "id": 261,
+      "name": "AI Helpdesk Ticket Classifier",
+      "slug": "ai-helpdesk-ticket-classifier",
+      "category": "Customer Support",
+      "priority": 1
+    },
+    {
+      "id": 262,
+      "name": "AI Auto-reply suggestion bot",
+      "slug": "ai-auto-reply-suggestion-bot",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 263,
+      "name": "AI help center article generator",
+      "slug": "ai-help-center-article-generator",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 264,
+      "name": "AI fAQ chatbot",
+      "slug": "ai-faq-chatbot",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 265,
+      "name": "AI complaint sentiment analyzer",
+      "slug": "ai-complaint-sentiment-analyzer",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 266,
+      "name": "AI escalation risk predictor",
+      "slug": "ai-escalation-risk-predictor",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 267,
+      "name": "AI customer call summarizer",
+      "slug": "ai-customer-call-summarizer",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 268,
+      "name": "AI refund request classifier",
+      "slug": "ai-refund-request-classifier",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 269,
+      "name": "AI chat quality checker",
+      "slug": "ai-chat-quality-checker",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 270,
+      "name": "AI Agent performance summarizer",
+      "slug": "ai-agent-performance-summarizer",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 271,
+      "name": "AI support knowledge base bot",
+      "slug": "ai-support-knowledge-base-bot",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 272,
+      "name": "AI ticket priority predictor",
+      "slug": "ai-ticket-priority-predictor",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 273,
+      "name": "AI multilingual support bot",
+      "slug": "ai-multilingual-support-bot",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 274,
+      "name": "AI customer satisfaction predictor",
+      "slug": "ai-customer-satisfaction-predictor",
+      "category": "Customer Support",
+      "priority": 0
+    },
+    {
+      "id": 275,
+      "name": "AI WhatsApp Business Assistant",
+      "slug": "ai-whatsapp-business-assistant",
+      "category": "Customer Support",
+      "priority": 1
+    },
+    {
+      "id": 276,
+      "name": "AI property description generator",
+      "slug": "ai-property-description-generator",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 277,
+      "name": "AI rent agreement summarizer",
+      "slug": "ai-rent-agreement-summarizer",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 278,
+      "name": "AI lease risk checker",
+      "slug": "ai-lease-risk-checker",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 279,
+      "name": "AI real estate lead chatbot",
+      "slug": "ai-real-estate-lead-chatbot",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 280,
+      "name": "AI property price estimator",
+      "slug": "ai-property-price-estimator",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 281,
+      "name": "AI tenant screening assistant",
+      "slug": "ai-tenant-screening-assistant",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 282,
+      "name": "AI maintenance request classifier",
+      "slug": "ai-maintenance-request-classifier",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 283,
+      "name": "AI real estate market report generator",
+      "slug": "ai-real-estate-market-report-generator",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 284,
+      "name": "AI legal notice draft assistant",
+      "slug": "ai-legal-notice-draft-assistant",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 285,
+      "name": "AI case document summarizer",
+      "slug": "ai-case-document-summarizer",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 286,
+      "name": "AI legal research assistant",
+      "slug": "ai-legal-research-assistant",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 287,
+      "name": "AI court order summarizer",
+      "slug": "ai-court-order-summarizer",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 288,
+      "name": "AI compliance checklist generator",
+      "slug": "ai-compliance-checklist-generator",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 289,
+      "name": "AI startup legal document assistant",
+      "slug": "ai-startup-legal-document-assistant",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 290,
+      "name": "AI privacy policy generator",
+      "slug": "ai-privacy-policy-generator",
+      "category": "Real Estate and Legal",
+      "priority": 0
+    },
+    {
+      "id": 291,
+      "name": "AI trip planner",
+      "slug": "ai-trip-planner",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 292,
+      "name": "AI budget travel planner",
+      "slug": "ai-budget-travel-planner",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 293,
+      "name": "AI itinerary generator",
+      "slug": "ai-itinerary-generator",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 294,
+      "name": "AI local food recommender",
+      "slug": "ai-local-food-recommender",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 295,
+      "name": "AI packing checklist generator",
+      "slug": "ai-packing-checklist-generator",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 296,
+      "name": "AI travel expense splitter",
+      "slug": "ai-travel-expense-splitter",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 297,
+      "name": "AI hotel review summarizer",
+      "slug": "ai-hotel-review-summarizer",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 298,
+      "name": "AI flight price tracker assistant",
+      "slug": "ai-flight-price-tracker-assistant",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 299,
+      "name": "AI road trip planner",
+      "slug": "ai-road-trip-planner",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 300,
+      "name": "AI weekend plan generator",
+      "slug": "ai-weekend-plan-generator",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 301,
+      "name": "AI restaurant finder",
+      "slug": "ai-restaurant-finder",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 302,
+      "name": "AI city guide chatbot",
+      "slug": "ai-city-guide-chatbot",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 303,
+      "name": "AI travel safety assistant",
+      "slug": "ai-travel-safety-assistant",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 304,
+      "name": "AI visa document checklist bot",
+      "slug": "ai-visa-document-checklist-bot",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 305,
+      "name": "AI local language travel assistant",
+      "slug": "ai-local-language-travel-assistant",
+      "category": "Travel and Lifestyle",
+      "priority": 0
+    },
+    {
+      "id": 306,
+      "name": "AI Meeting Notes Summarizer",
+      "slug": "ai-meeting-notes-summarizer",
+      "category": "Productivity",
+      "priority": 1
+    },
+    {
+      "id": 307,
+      "name": "AI Action item extractor",
+      "slug": "ai-action-item-extractor",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 308,
+      "name": "AI email reply assistant",
+      "slug": "ai-email-reply-assistant",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 309,
+      "name": "AI calendar planning assistant",
+      "slug": "ai-calendar-planning-assistant",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 310,
+      "name": "AI daily task planner",
+      "slug": "ai-daily-task-planner",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 311,
+      "name": "AI habit tracker",
+      "slug": "ai-habit-tracker",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 312,
+      "name": "AI focus timer with AI coach",
+      "slug": "ai-focus-timer-with-ai-coach",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 313,
+      "name": "AI personal knowledge base chatbot",
+      "slug": "ai-personal-knowledge-base-chatbot",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 314,
+      "name": "AI voice note summarizer",
+      "slug": "ai-voice-note-summarizer",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 315,
+      "name": "AI decision-making assistant",
+      "slug": "ai-decision-making-assistant",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 316,
+      "name": "AI goal tracker",
+      "slug": "ai-goal-tracker",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 317,
+      "name": "AI personal CRM assistant",
+      "slug": "ai-personal-crm-assistant",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 318,
+      "name": "AI reminder generator from chats",
+      "slug": "ai-reminder-generator-from-chats",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 319,
+      "name": "AI notion workspace assistant",
+      "slug": "ai-notion-workspace-assistant",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 320,
+      "name": "AI second brain",
+      "slug": "ai-second-brain",
+      "category": "Productivity",
+      "priority": 0
+    },
+    {
+      "id": 321,
+      "name": "AI image caption generator",
+      "slug": "ai-image-caption-generator",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 322,
+      "name": "AI oCR document reader",
+      "slug": "ai-ocr-document-reader",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 323,
+      "name": "AI voice-to-notes app",
+      "slug": "ai-voice-to-notes-app",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 324,
+      "name": "AI Audio meeting summarizer",
+      "slug": "ai-audio-meeting-summarizer",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 325,
+      "name": "AI photo organizer",
+      "slug": "ai-photo-organizer",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 326,
+      "name": "AI visual product search",
+      "slug": "ai-visual-product-search",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 327,
+      "name": "AI image-based fashion recommender",
+      "slug": "ai-image-based-fashion-recommender",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 328,
+      "name": "AI food calorie estimator from photo",
+      "slug": "ai-food-calorie-estimator-from-photo",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 329,
+      "name": "AI resume scanner from image",
+      "slug": "ai-resume-scanner-from-image",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 330,
+      "name": "AI handwritten notes digitizer",
+      "slug": "ai-handwritten-notes-digitizer",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 331,
+      "name": "AI chart image explainer",
+      "slug": "ai-chart-image-explainer",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 332,
+      "name": "AI uI screenshot analyzer",
+      "slug": "ai-ui-screenshot-analyzer",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 333,
+      "name": "AI design feedback assistant",
+      "slug": "ai-design-feedback-assistant",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 334,
+      "name": "AI logo idea generator",
+      "slug": "ai-logo-idea-generator",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 335,
+      "name": "AI meme generator",
+      "slug": "ai-meme-generator",
+      "category": "Voice, Image, and Multimodal",
+      "priority": 0
+    },
+    {
+      "id": 336,
+      "name": "AI email agent",
+      "slug": "ai-email-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 337,
+      "name": "AI browser research agent",
+      "slug": "ai-browser-research-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 338,
+      "name": "AI job application agent",
+      "slug": "ai-job-application-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 339,
+      "name": "AI invoice processing agent",
+      "slug": "ai-invoice-processing-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 340,
+      "name": "AI customer follow-up agent",
+      "slug": "ai-customer-follow-up-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 341,
+      "name": "AI calendar scheduling agent",
+      "slug": "ai-calendar-scheduling-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 342,
+      "name": "AI lead generation agent",
+      "slug": "ai-lead-generation-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 343,
+      "name": "AI data cleaning agent",
+      "slug": "ai-data-cleaning-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 344,
+      "name": "AI report generation agent",
+      "slug": "ai-report-generation-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 345,
+      "name": "AI social media posting agent",
+      "slug": "ai-social-media-posting-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 346,
+      "name": "AI GitHub issue triage agent",
+      "slug": "ai-github-issue-triage-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 347,
+      "name": "AI CRM update agent",
+      "slug": "ai-crm-update-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 348,
+      "name": "AI price monitoring agent",
+      "slug": "ai-price-monitoring-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 349,
+      "name": "AI document approval agent",
+      "slug": "ai-document-approval-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 350,
+      "name": "AI personal assistant agent",
+      "slug": "ai-personal-assistant-agent",
+      "category": "Agents and Automation",
+      "priority": 0
+    },
+    {
+      "id": 351,
+      "name": "AI full-stack RAG chatbot for company documents",
+      "slug": "ai-full-stack-rag-chatbot-for-company-documents",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 352,
+      "name": "AI customer support SaaS",
+      "slug": "ai-customer-support-saas",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 353,
+      "name": "AI invoice extraction dashboard",
+      "slug": "ai-invoice-extraction-dashboard",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 354,
+      "name": "AI resume + job matching platform",
+      "slug": "ai-resume-job-matching-platform",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 355,
+      "name": "AI analytics dashboard with natural language questions",
+      "slug": "ai-analytics-dashboard-with-natural-language-questions",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 356,
+      "name": "AI PDF contract risk checker",
+      "slug": "ai-pdf-contract-risk-checker",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 357,
+      "name": "AI meeting assistant with action items",
+      "slug": "ai-meeting-assistant-with-action-items",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 358,
+      "name": "AI ecommerce review intelligence dashboard",
+      "slug": "ai-ecommerce-review-intelligence-dashboard",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 359,
+      "name": "AI trading journal and market sentiment tool",
+      "slug": "ai-trading-journal-and-market-sentiment-tool",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 360,
+      "name": "AI code review platform",
+      "slug": "ai-code-review-platform",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 361,
+      "name": "AI HR screening assistant",
+      "slug": "ai-hr-screening-assistant",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 362,
+      "name": "AI data quality monitoring dashboard",
+      "slug": "ai-data-quality-monitoring-dashboard",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 363,
+      "name": "AI learning tutor with progress tracking",
+      "slug": "ai-learning-tutor-with-progress-tracking",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 364,
+      "name": "AI business research agent",
+      "slug": "ai-business-research-agent",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    },
+    {
+      "id": 365,
+      "name": "AI consultancy automation platform",
+      "slug": "ai-consultancy-automation-platform",
+      "category": "Strong Portfolio Projects",
+      "priority": 0
+    }
+  ]
+}

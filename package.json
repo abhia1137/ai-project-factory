@@ -1,0 +1,16 @@
+{
+  "name": "ai-project-factory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Orchestrator that scaffolds AI micro-projects and commits to GitHub on a schedule",
+  "type": "module",
+  "scripts": {
+    "generate:projects": "node scripts/generate-projects.mjs",
+    "run:day": "node src/run-day.mjs",
+    "run:day:dry": "DRY_RUN=true node src/run-day.mjs",
+    "status": "node src/status.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,45 @@
+name: Daily AI Project Builder
+
+on:
+  schedule:
+    # Runs every day at 09:00 UTC (~2:30 PM IST)
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (no git push)"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  build-day:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout orchestrator repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Verify projects catalog
+        run: node scripts/generate-projects.mjs
+
+      - name: Run daily builder
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_OWNER: abhia1137
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: npm run run:day
+
+      - name: Commit updated factory state
+        run: |
+          git config user.name "AI Project Factory"
+          git config user.email "bot@ai-project-factory.local"
+          git add state.json
+          git diff --staged --quiet || git commit -m "chore: update factory state after daily run"
+          git push
