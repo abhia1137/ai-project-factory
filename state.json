@@ -1,6 +1,15 @@
 {
   "version": 1,
   "completedSlugs": [],
-  "active": null,
+  "active": {
+    "slug": "ai-resume-optimizer",
+    "name": "AI Resume Optimizer",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-resume-optimizer",
+    "day": 2,
+    "totalCommits": 3,
+    "startedAt": "2026-06-28T08:49:02.347Z",
+    "lastRunAt": "2026-06-28T08:49:13.138Z"
+  },
   "history": []
 }

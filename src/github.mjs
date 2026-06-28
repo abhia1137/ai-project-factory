@@ -1,5 +1,5 @@
 import { execSync } from "child_process";
-import { mkdirSync, existsSync } from "fs";
+import { mkdirSync, existsSync, rmSync } from "fs";
 import { join } from "path";
 import { getConfig, log } from "./config.mjs";
 
@@ -79,6 +79,9 @@ export function cloneOrPull(owner, slug) {
     sh("git fetch origin && git checkout main 2>/dev/null || git checkout -b main", { cwd: dir, silent: true });
     sh("git pull --rebase origin main || true", { cwd: dir, silent: true });
   } else {
+    if (existsSync(dir)) {
+      rmSync(dir, { recursive: true, force: true });
+    }
     sh(`git clone ${remote} ${dir}`, { silent: true });
   }
   return dir;
