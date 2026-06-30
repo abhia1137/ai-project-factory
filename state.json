@@ -3,7 +3,16 @@
   "completedSlugs": [
     "ai-resume-optimizer"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-job-application-tracker",
+    "name": "AI Job Application Tracker",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-job-application-tracker",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-06-30T11:47:01.081Z",
+    "lastRunAt": "2026-06-30T11:47:01.441Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
