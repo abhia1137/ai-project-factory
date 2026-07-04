@@ -4,7 +4,16 @@
     "ai-resume-optimizer",
     "ai-job-application-tracker"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-interview-answer-coach",
+    "name": "AI Interview Answer Coach",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-interview-answer-coach",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-07-04T10:56:03.495Z",
+    "lastRunAt": "2026-07-04T10:56:03.679Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
