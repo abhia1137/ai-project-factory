@@ -2,18 +2,10 @@
   "version": 1,
   "completedSlugs": [
     "ai-resume-optimizer",
-    "ai-job-application-tracker"
+    "ai-job-application-tracker",
+    "ai-interview-answer-coach"
   ],
-  "active": {
-    "slug": "ai-interview-answer-coach",
-    "name": "AI Interview Answer Coach",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-interview-answer-coach",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-07-04T10:56:03.495Z",
-    "lastRunAt": "2026-07-06T12:52:22.813Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -36,6 +28,17 @@
       "startedAt": "2026-06-30T11:47:01.081Z",
       "lastRunAt": "2026-07-02T11:37:22.829Z",
       "completedAt": "2026-07-03T11:35:38.882Z"
+    },
+    {
+      "slug": "ai-interview-answer-coach",
+      "name": "AI Interview Answer Coach",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-interview-answer-coach",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-07-04T10:56:03.495Z",
+      "lastRunAt": "2026-07-06T12:52:22.813Z",
+      "completedAt": "2026-07-07T11:54:30.479Z"
     }
   ]
 }
