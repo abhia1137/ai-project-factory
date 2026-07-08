@@ -5,7 +5,16 @@
     "ai-job-application-tracker",
     "ai-interview-answer-coach"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-linkedin-profile-improver",
+    "name": "AI LinkedIn Profile Improver",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-linkedin-profile-improver",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-07-08T11:08:24.986Z",
+    "lastRunAt": "2026-07-08T11:08:25.263Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
