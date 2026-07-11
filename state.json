@@ -3,18 +3,10 @@
   "completedSlugs": [
     "ai-resume-optimizer",
     "ai-job-application-tracker",
-    "ai-interview-answer-coach"
+    "ai-interview-answer-coach",
+    "ai-linkedin-profile-improver"
   ],
-  "active": {
-    "slug": "ai-linkedin-profile-improver",
-    "name": "AI LinkedIn Profile Improver",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-linkedin-profile-improver",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-07-08T11:08:24.986Z",
-    "lastRunAt": "2026-07-10T11:55:49.348Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -48,6 +40,17 @@
       "startedAt": "2026-07-04T10:56:03.495Z",
       "lastRunAt": "2026-07-06T12:52:22.813Z",
       "completedAt": "2026-07-07T11:54:30.479Z"
+    },
+    {
+      "slug": "ai-linkedin-profile-improver",
+      "name": "AI LinkedIn Profile Improver",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-linkedin-profile-improver",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-07-08T11:08:24.986Z",
+      "lastRunAt": "2026-07-10T11:55:49.348Z",
+      "completedAt": "2026-07-11T10:18:05.982Z"
     }
   ]
 }
