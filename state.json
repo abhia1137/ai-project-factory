@@ -6,7 +6,16 @@
     "ai-interview-answer-coach",
     "ai-linkedin-profile-improver"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-cold-email-generator",
+    "name": "AI Cold Email Generator",
+    "category": "Business and Consultancy",
+    "repo": "abhia1137/ai-cold-email-generator",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-07-12T10:37:06.185Z",
+    "lastRunAt": "2026-07-12T10:37:06.349Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
