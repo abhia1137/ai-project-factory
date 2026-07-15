@@ -4,18 +4,10 @@
     "ai-resume-optimizer",
     "ai-job-application-tracker",
     "ai-interview-answer-coach",
-    "ai-linkedin-profile-improver"
+    "ai-linkedin-profile-improver",
+    "ai-cold-email-generator"
   ],
-  "active": {
-    "slug": "ai-cold-email-generator",
-    "name": "AI Cold Email Generator",
-    "category": "Business and Consultancy",
-    "repo": "abhia1137/ai-cold-email-generator",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-07-12T10:37:06.185Z",
-    "lastRunAt": "2026-07-14T10:50:35.815Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -60,6 +52,17 @@
       "startedAt": "2026-07-08T11:08:24.986Z",
       "lastRunAt": "2026-07-10T11:55:49.348Z",
       "completedAt": "2026-07-11T10:18:05.982Z"
+    },
+    {
+      "slug": "ai-cold-email-generator",
+      "name": "AI Cold Email Generator",
+      "category": "Business and Consultancy",
+      "repo": "abhia1137/ai-cold-email-generator",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-07-12T10:37:06.185Z",
+      "lastRunAt": "2026-07-14T10:50:35.815Z",
+      "completedAt": "2026-07-15T10:53:59.669Z"
     }
   ]
 }
