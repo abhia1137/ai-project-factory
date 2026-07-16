@@ -7,7 +7,16 @@
     "ai-linkedin-profile-improver",
     "ai-cold-email-generator"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-pdf-invoice-extractor",
+    "name": "AI PDF Invoice Extractor",
+    "category": "Document AI",
+    "repo": "abhia1137/ai-pdf-invoice-extractor",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-07-16T11:03:22.073Z",
+    "lastRunAt": "2026-07-16T11:03:22.434Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
