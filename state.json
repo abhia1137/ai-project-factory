@@ -5,18 +5,10 @@
     "ai-job-application-tracker",
     "ai-interview-answer-coach",
     "ai-linkedin-profile-improver",
-    "ai-cold-email-generator"
+    "ai-cold-email-generator",
+    "ai-pdf-invoice-extractor"
   ],
-  "active": {
-    "slug": "ai-pdf-invoice-extractor",
-    "name": "AI PDF Invoice Extractor",
-    "category": "Document AI",
-    "repo": "abhia1137/ai-pdf-invoice-extractor",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-07-16T11:03:22.073Z",
-    "lastRunAt": "2026-07-18T10:20:56.995Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -72,6 +64,17 @@
       "startedAt": "2026-07-12T10:37:06.185Z",
       "lastRunAt": "2026-07-14T10:50:35.815Z",
       "completedAt": "2026-07-15T10:53:59.669Z"
+    },
+    {
+      "slug": "ai-pdf-invoice-extractor",
+      "name": "AI PDF Invoice Extractor",
+      "category": "Document AI",
+      "repo": "abhia1137/ai-pdf-invoice-extractor",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-07-16T11:03:22.073Z",
+      "lastRunAt": "2026-07-18T10:20:56.995Z",
+      "completedAt": "2026-07-19T10:37:14.222Z"
     }
   ]
 }
