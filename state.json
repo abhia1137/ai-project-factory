@@ -8,7 +8,16 @@
     "ai-cold-email-generator",
     "ai-pdf-invoice-extractor"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-bank-statement-analyzer",
+    "name": "AI Bank Statement Analyzer",
+    "category": "Document AI",
+    "repo": "abhia1137/ai-bank-statement-analyzer",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-07-20T11:48:34.576Z",
+    "lastRunAt": "2026-07-20T11:48:34.714Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
