@@ -6,18 +6,10 @@
     "ai-interview-answer-coach",
     "ai-linkedin-profile-improver",
     "ai-cold-email-generator",
-    "ai-pdf-invoice-extractor"
+    "ai-pdf-invoice-extractor",
+    "ai-bank-statement-analyzer"
   ],
-  "active": {
-    "slug": "ai-bank-statement-analyzer",
-    "name": "AI Bank Statement Analyzer",
-    "category": "Document AI",
-    "repo": "abhia1137/ai-bank-statement-analyzer",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-07-20T11:48:34.576Z",
-    "lastRunAt": "2026-07-22T11:11:57.500Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -84,6 +76,17 @@
       "startedAt": "2026-07-16T11:03:22.073Z",
       "lastRunAt": "2026-07-18T10:20:56.995Z",
       "completedAt": "2026-07-19T10:37:14.222Z"
+    },
+    {
+      "slug": "ai-bank-statement-analyzer",
+      "name": "AI Bank Statement Analyzer",
+      "category": "Document AI",
+      "repo": "abhia1137/ai-bank-statement-analyzer",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-07-20T11:48:34.576Z",
+      "lastRunAt": "2026-07-22T11:11:57.500Z",
+      "completedAt": "2026-07-23T11:13:23.173Z"
     }
   ]
 }
