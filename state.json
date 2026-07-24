@@ -9,7 +9,16 @@
     "ai-pdf-invoice-extractor",
     "ai-bank-statement-analyzer"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-customer-support-chatbot",
+    "name": "AI Customer Support Chatbot",
+    "category": "Ecommerce",
+    "repo": "abhia1137/ai-customer-support-chatbot",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-07-24T11:05:02.128Z",
+    "lastRunAt": "2026-07-24T11:05:02.479Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
