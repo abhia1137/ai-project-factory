@@ -7,18 +7,10 @@
     "ai-linkedin-profile-improver",
     "ai-cold-email-generator",
     "ai-pdf-invoice-extractor",
-    "ai-bank-statement-analyzer"
+    "ai-bank-statement-analyzer",
+    "ai-customer-support-chatbot"
   ],
-  "active": {
-    "slug": "ai-customer-support-chatbot",
-    "name": "AI Customer Support Chatbot",
-    "category": "Ecommerce",
-    "repo": "abhia1137/ai-customer-support-chatbot",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-07-24T11:05:02.128Z",
-    "lastRunAt": "2026-07-26T10:46:09.911Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -96,6 +88,17 @@
       "startedAt": "2026-07-20T11:48:34.576Z",
       "lastRunAt": "2026-07-22T11:11:57.500Z",
       "completedAt": "2026-07-23T11:13:23.173Z"
+    },
+    {
+      "slug": "ai-customer-support-chatbot",
+      "name": "AI Customer Support Chatbot",
+      "category": "Ecommerce",
+      "repo": "abhia1137/ai-customer-support-chatbot",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-07-24T11:05:02.128Z",
+      "lastRunAt": "2026-07-26T10:46:09.911Z",
+      "completedAt": "2026-07-27T12:27:23.856Z"
     }
   ]
 }
