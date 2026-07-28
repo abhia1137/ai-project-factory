@@ -10,7 +10,16 @@
     "ai-bank-statement-analyzer",
     "ai-customer-support-chatbot"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-whatsapp-business-assistant",
+    "name": "AI WhatsApp Business Assistant",
+    "category": "Customer Support",
+    "repo": "abhia1137/ai-whatsapp-business-assistant",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-07-28T11:21:09.707Z",
+    "lastRunAt": "2026-07-28T11:21:10.091Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
