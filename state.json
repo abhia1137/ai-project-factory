@@ -8,18 +8,10 @@
     "ai-cold-email-generator",
     "ai-pdf-invoice-extractor",
     "ai-bank-statement-analyzer",
-    "ai-customer-support-chatbot"
+    "ai-customer-support-chatbot",
+    "ai-whatsapp-business-assistant"
   ],
-  "active": {
-    "slug": "ai-whatsapp-business-assistant",
-    "name": "AI WhatsApp Business Assistant",
-    "category": "Customer Support",
-    "repo": "abhia1137/ai-whatsapp-business-assistant",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-07-28T11:21:09.707Z",
-    "lastRunAt": "2026-07-30T11:10:31.255Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -108,6 +100,17 @@
       "startedAt": "2026-07-24T11:05:02.128Z",
       "lastRunAt": "2026-07-26T10:46:09.911Z",
       "completedAt": "2026-07-27T12:27:23.856Z"
+    },
+    {
+      "slug": "ai-whatsapp-business-assistant",
+      "name": "AI WhatsApp Business Assistant",
+      "category": "Customer Support",
+      "repo": "abhia1137/ai-whatsapp-business-assistant",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-07-28T11:21:09.707Z",
+      "lastRunAt": "2026-07-30T11:10:31.255Z",
+      "completedAt": "2026-07-31T11:31:12.322Z"
     }
   ]
 }
