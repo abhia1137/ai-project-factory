@@ -9,18 +9,10 @@
     "ai-pdf-invoice-extractor",
     "ai-bank-statement-analyzer",
     "ai-customer-support-chatbot",
-    "ai-whatsapp-business-assistant"
+    "ai-whatsapp-business-assistant",
+    "ai-meeting-notes-summarizer"
   ],
-  "active": {
-    "slug": "ai-meeting-notes-summarizer",
-    "name": "AI Meeting Notes Summarizer",
-    "category": "Productivity",
-    "repo": "abhia1137/ai-meeting-notes-summarizer",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-08-01T10:42:56.408Z",
-    "lastRunAt": "2026-08-03T12:27:56.578Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -120,6 +112,17 @@
       "startedAt": "2026-07-28T11:21:09.707Z",
       "lastRunAt": "2026-07-30T11:10:31.255Z",
       "completedAt": "2026-07-31T11:31:12.322Z"
+    },
+    {
+      "slug": "ai-meeting-notes-summarizer",
+      "name": "AI Meeting Notes Summarizer",
+      "category": "Productivity",
+      "repo": "abhia1137/ai-meeting-notes-summarizer",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-08-01T10:42:56.408Z",
+      "lastRunAt": "2026-08-03T12:27:56.578Z",
+      "completedAt": "2026-08-04T11:26:53.285Z"
     }
   ]
 }
