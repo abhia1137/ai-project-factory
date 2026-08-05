@@ -12,7 +12,16 @@
     "ai-whatsapp-business-assistant",
     "ai-meeting-notes-summarizer"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-code-review-assistant",
+    "name": "AI Code Review Assistant",
+    "category": "Developer Tools",
+    "repo": "abhia1137/ai-code-review-assistant",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-08-05T11:23:28.897Z",
+    "lastRunAt": "2026-08-05T11:23:29.104Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
