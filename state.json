@@ -10,18 +10,10 @@
     "ai-bank-statement-analyzer",
     "ai-customer-support-chatbot",
     "ai-whatsapp-business-assistant",
-    "ai-meeting-notes-summarizer"
+    "ai-meeting-notes-summarizer",
+    "ai-code-review-assistant"
   ],
-  "active": {
-    "slug": "ai-code-review-assistant",
-    "name": "AI Code Review Assistant",
-    "category": "Developer Tools",
-    "repo": "abhia1137/ai-code-review-assistant",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-08-05T11:23:28.897Z",
-    "lastRunAt": "2026-08-07T10:03:31.462Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -132,6 +124,17 @@
       "startedAt": "2026-08-01T10:42:56.408Z",
       "lastRunAt": "2026-08-03T12:27:56.578Z",
       "completedAt": "2026-08-04T11:26:53.285Z"
+    },
+    {
+      "slug": "ai-code-review-assistant",
+      "name": "AI Code Review Assistant",
+      "category": "Developer Tools",
+      "repo": "abhia1137/ai-code-review-assistant",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-08-05T11:23:28.897Z",
+      "lastRunAt": "2026-08-07T10:03:31.462Z",
+      "completedAt": "2026-08-08T09:40:57.408Z"
     }
   ]
 }
