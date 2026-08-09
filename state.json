@@ -13,7 +13,16 @@
     "ai-meeting-notes-summarizer",
     "ai-code-review-assistant"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-sql-query-generator",
+    "name": "AI SQL Query Generator",
+    "category": "Developer Tools",
+    "repo": "abhia1137/ai-sql-query-generator",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-08-09T09:42:40.109Z",
+    "lastRunAt": "2026-08-09T09:42:40.285Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
