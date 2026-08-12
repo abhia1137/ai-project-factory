@@ -11,18 +11,10 @@
     "ai-customer-support-chatbot",
     "ai-whatsapp-business-assistant",
     "ai-meeting-notes-summarizer",
-    "ai-code-review-assistant"
+    "ai-code-review-assistant",
+    "ai-sql-query-generator"
   ],
-  "active": {
-    "slug": "ai-sql-query-generator",
-    "name": "AI SQL Query Generator",
-    "category": "Developer Tools",
-    "repo": "abhia1137/ai-sql-query-generator",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-08-09T09:42:40.109Z",
-    "lastRunAt": "2026-08-11T10:02:40.259Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -144,6 +136,17 @@
       "startedAt": "2026-08-05T11:23:28.897Z",
       "lastRunAt": "2026-08-07T10:03:31.462Z",
       "completedAt": "2026-08-08T09:40:57.408Z"
+    },
+    {
+      "slug": "ai-sql-query-generator",
+      "name": "AI SQL Query Generator",
+      "category": "Developer Tools",
+      "repo": "abhia1137/ai-sql-query-generator",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-08-09T09:42:40.109Z",
+      "lastRunAt": "2026-08-11T10:02:40.259Z",
+      "completedAt": "2026-08-12T10:09:51.363Z"
     }
   ]
 }
