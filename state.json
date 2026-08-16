@@ -12,18 +12,10 @@
     "ai-whatsapp-business-assistant",
     "ai-meeting-notes-summarizer",
     "ai-code-review-assistant",
-    "ai-sql-query-generator"
+    "ai-sql-query-generator",
+    "ai-dashboard-insight-generator"
   ],
-  "active": {
-    "slug": "ai-dashboard-insight-generator",
-    "name": "AI Dashboard Insight Generator",
-    "category": "Data Engineering and Analytics",
-    "repo": "abhia1137/ai-dashboard-insight-generator",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-08-13T10:10:53.848Z",
-    "lastRunAt": "2026-08-15T09:28:44.061Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -156,6 +148,17 @@
       "startedAt": "2026-08-09T09:42:40.109Z",
       "lastRunAt": "2026-08-11T10:02:40.259Z",
       "completedAt": "2026-08-12T10:09:51.363Z"
+    },
+    {
+      "slug": "ai-dashboard-insight-generator",
+      "name": "AI Dashboard Insight Generator",
+      "category": "Data Engineering and Analytics",
+      "repo": "abhia1137/ai-dashboard-insight-generator",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-08-13T10:10:53.848Z",
+      "lastRunAt": "2026-08-15T09:28:44.061Z",
+      "completedAt": "2026-08-16T09:29:42.219Z"
     }
   ]
 }
