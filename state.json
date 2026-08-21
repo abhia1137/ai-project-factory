@@ -16,7 +16,16 @@
     "ai-dashboard-insight-generator",
     "ai-sales-lead-scorer"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-ecommerce-product-description-writer",
+    "name": "AI Ecommerce Product Description Writer",
+    "category": "Ecommerce",
+    "repo": "abhia1137/ai-ecommerce-product-description-writer",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-08-21T09:39:55.468Z",
+    "lastRunAt": "2026-08-21T09:39:55.834Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
