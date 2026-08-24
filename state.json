@@ -14,18 +14,10 @@
     "ai-code-review-assistant",
     "ai-sql-query-generator",
     "ai-dashboard-insight-generator",
-    "ai-sales-lead-scorer"
+    "ai-sales-lead-scorer",
+    "ai-ecommerce-product-description-writer"
   ],
-  "active": {
-    "slug": "ai-ecommerce-product-description-writer",
-    "name": "AI Ecommerce Product Description Writer",
-    "category": "Ecommerce",
-    "repo": "abhia1137/ai-ecommerce-product-description-writer",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-08-21T09:39:55.468Z",
-    "lastRunAt": "2026-08-23T09:30:29.590Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -180,6 +172,17 @@
       "startedAt": "2026-08-17T09:45:25.921Z",
       "lastRunAt": "2026-08-19T09:36:50.951Z",
       "completedAt": "2026-08-20T09:37:37.983Z"
+    },
+    {
+      "slug": "ai-ecommerce-product-description-writer",
+      "name": "AI Ecommerce Product Description Writer",
+      "category": "Ecommerce",
+      "repo": "abhia1137/ai-ecommerce-product-description-writer",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-08-21T09:39:55.468Z",
+      "lastRunAt": "2026-08-23T09:30:29.590Z",
+      "completedAt": "2026-08-24T09:51:27.660Z"
     }
   ]
 }
