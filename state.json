@@ -17,7 +17,16 @@
     "ai-sales-lead-scorer",
     "ai-ecommerce-product-description-writer"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-document-q-a-bot",
+    "name": "AI Document Q&A Bot",
+    "category": "Document AI",
+    "repo": "abhia1137/ai-document-q-a-bot",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-08-25T09:38:31.146Z",
+    "lastRunAt": "2026-08-25T09:38:31.535Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
