@@ -15,18 +15,10 @@
     "ai-sql-query-generator",
     "ai-dashboard-insight-generator",
     "ai-sales-lead-scorer",
-    "ai-ecommerce-product-description-writer"
+    "ai-ecommerce-product-description-writer",
+    "ai-document-q-a-bot"
   ],
-  "active": {
-    "slug": "ai-document-q-a-bot",
-    "name": "AI Document Q&A Bot",
-    "category": "Document AI",
-    "repo": "abhia1137/ai-document-q-a-bot",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-08-25T09:38:31.146Z",
-    "lastRunAt": "2026-08-27T19:41:04.949Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -192,6 +184,17 @@
       "startedAt": "2026-08-21T09:39:55.468Z",
       "lastRunAt": "2026-08-23T09:30:29.590Z",
       "completedAt": "2026-08-24T09:51:27.660Z"
+    },
+    {
+      "slug": "ai-document-q-a-bot",
+      "name": "AI Document Q&A Bot",
+      "category": "Document AI",
+      "repo": "abhia1137/ai-document-q-a-bot",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-08-25T09:38:31.146Z",
+      "lastRunAt": "2026-08-27T19:41:04.949Z",
+      "completedAt": "2026-08-28T20:45:55.791Z"
     }
   ]
 }
