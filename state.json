@@ -18,7 +18,16 @@
     "ai-ecommerce-product-description-writer",
     "ai-document-q-a-bot"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-contract-risk-checker",
+    "name": "AI Contract Risk Checker",
+    "category": "Document AI",
+    "repo": "abhia1137/ai-contract-risk-checker",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-08-29T14:15:13.613Z",
+    "lastRunAt": "2026-08-29T14:15:13.922Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
