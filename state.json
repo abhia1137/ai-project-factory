@@ -16,18 +16,10 @@
     "ai-dashboard-insight-generator",
     "ai-sales-lead-scorer",
     "ai-ecommerce-product-description-writer",
-    "ai-document-q-a-bot"
+    "ai-document-q-a-bot",
+    "ai-contract-risk-checker"
   ],
-  "active": {
-    "slug": "ai-contract-risk-checker",
-    "name": "AI Contract Risk Checker",
-    "category": "Document AI",
-    "repo": "abhia1137/ai-contract-risk-checker",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-08-29T14:15:13.613Z",
-    "lastRunAt": "2026-08-31T16:52:48.274Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -204,6 +196,17 @@
       "startedAt": "2026-08-25T09:38:31.146Z",
       "lastRunAt": "2026-08-27T19:41:04.949Z",
       "completedAt": "2026-08-28T20:45:55.791Z"
+    },
+    {
+      "slug": "ai-contract-risk-checker",
+      "name": "AI Contract Risk Checker",
+      "category": "Document AI",
+      "repo": "abhia1137/ai-contract-risk-checker",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-08-29T14:15:13.613Z",
+      "lastRunAt": "2026-08-31T16:52:48.274Z",
+      "completedAt": "2026-09-01T14:00:58.691Z"
     }
   ]
 }
