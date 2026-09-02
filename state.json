@@ -19,7 +19,16 @@
     "ai-document-q-a-bot",
     "ai-contract-risk-checker"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-helpdesk-ticket-classifier",
+    "name": "AI Helpdesk Ticket Classifier",
+    "category": "Customer Support",
+    "repo": "abhia1137/ai-helpdesk-ticket-classifier",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-09-02T13:24:41.772Z",
+    "lastRunAt": "2026-09-02T13:24:41.983Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
