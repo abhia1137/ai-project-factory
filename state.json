@@ -17,18 +17,10 @@
     "ai-sales-lead-scorer",
     "ai-ecommerce-product-description-writer",
     "ai-document-q-a-bot",
-    "ai-contract-risk-checker"
+    "ai-contract-risk-checker",
+    "ai-helpdesk-ticket-classifier"
   ],
-  "active": {
-    "slug": "ai-helpdesk-ticket-classifier",
-    "name": "AI Helpdesk Ticket Classifier",
-    "category": "Customer Support",
-    "repo": "abhia1137/ai-helpdesk-ticket-classifier",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-09-02T13:24:41.772Z",
-    "lastRunAt": "2026-09-04T13:17:36.265Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -216,6 +208,17 @@
       "startedAt": "2026-08-29T14:15:13.613Z",
       "lastRunAt": "2026-08-31T16:52:48.274Z",
       "completedAt": "2026-09-01T14:00:58.691Z"
+    },
+    {
+      "slug": "ai-helpdesk-ticket-classifier",
+      "name": "AI Helpdesk Ticket Classifier",
+      "category": "Customer Support",
+      "repo": "abhia1137/ai-helpdesk-ticket-classifier",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-09-02T13:24:41.772Z",
+      "lastRunAt": "2026-09-04T13:17:36.265Z",
+      "completedAt": "2026-09-05T12:29:16.258Z"
     }
   ]
 }
