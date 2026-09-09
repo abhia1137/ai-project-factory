@@ -18,18 +18,10 @@
     "ai-ecommerce-product-description-writer",
     "ai-document-q-a-bot",
     "ai-contract-risk-checker",
-    "ai-helpdesk-ticket-classifier"
+    "ai-helpdesk-ticket-classifier",
+    "ai-expense-categorizer"
   ],
-  "active": {
-    "slug": "ai-expense-categorizer",
-    "name": "AI Expense Categorizer",
-    "category": "Finance and Trading",
-    "repo": "abhia1137/ai-expense-categorizer",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-09-06T12:42:38.151Z",
-    "lastRunAt": "2026-09-08T13:24:42.941Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -228,6 +220,17 @@
       "startedAt": "2026-09-02T13:24:41.772Z",
       "lastRunAt": "2026-09-04T13:17:36.265Z",
       "completedAt": "2026-09-05T12:29:16.258Z"
+    },
+    {
+      "slug": "ai-expense-categorizer",
+      "name": "AI Expense Categorizer",
+      "category": "Finance and Trading",
+      "repo": "abhia1137/ai-expense-categorizer",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-09-06T12:42:38.151Z",
+      "lastRunAt": "2026-09-08T13:24:42.941Z",
+      "completedAt": "2026-09-09T13:34:06.441Z"
     }
   ]
 }
