@@ -21,7 +21,16 @@
     "ai-helpdesk-ticket-classifier",
     "ai-expense-categorizer"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-trading-news-sentiment-tracker",
+    "name": "AI Trading News Sentiment Tracker",
+    "category": "Finance and Trading",
+    "repo": "abhia1137/ai-trading-news-sentiment-tracker",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-09-10T13:25:25.612Z",
+    "lastRunAt": "2026-09-10T13:25:26.002Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
