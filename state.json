@@ -20,18 +20,10 @@
     "ai-contract-risk-checker",
     "ai-helpdesk-ticket-classifier",
     "ai-expense-categorizer",
-    "ai-trading-news-sentiment-tracker"
+    "ai-trading-news-sentiment-tracker",
+    "ai-content-calendar-generator"
   ],
-  "active": {
-    "slug": "ai-content-calendar-generator",
-    "name": "AI Content Calendar Generator",
-    "category": "Content Creation",
-    "repo": "abhia1137/ai-content-calendar-generator",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-09-14T15:46:20.665Z",
-    "lastRunAt": "2026-09-16T14:05:54.157Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -252,6 +244,17 @@
       "startedAt": "2026-09-10T13:25:25.612Z",
       "lastRunAt": "2026-09-12T12:44:03.218Z",
       "completedAt": "2026-09-13T13:43:16.251Z"
+    },
+    {
+      "slug": "ai-content-calendar-generator",
+      "name": "AI Content Calendar Generator",
+      "category": "Content Creation",
+      "repo": "abhia1137/ai-content-calendar-generator",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-09-14T15:46:20.665Z",
+      "lastRunAt": "2026-09-16T14:05:54.157Z",
+      "completedAt": "2026-09-17T14:11:29.785Z"
     }
   ]
 }
