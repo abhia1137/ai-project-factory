@@ -23,7 +23,16 @@
     "ai-trading-news-sentiment-tracker",
     "ai-content-calendar-generator"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-youtube-video-summarizer",
+    "name": "AI YouTube Video Summarizer",
+    "category": "Education and Learning",
+    "repo": "abhia1137/ai-youtube-video-summarizer",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-09-18T13:29:50.590Z",
+    "lastRunAt": "2026-09-18T13:29:50.777Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
