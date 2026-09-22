@@ -24,7 +24,16 @@
     "ai-content-calendar-generator",
     "ai-youtube-video-summarizer"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-course-learning-assistant",
+    "name": "AI Course Learning Assistant",
+    "category": "Education and Learning",
+    "repo": "abhia1137/ai-course-learning-assistant",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-09-22T13:57:32.420Z",
+    "lastRunAt": "2026-09-22T13:57:32.781Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
