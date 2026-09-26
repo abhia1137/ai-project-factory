@@ -25,7 +25,16 @@
     "ai-youtube-video-summarizer",
     "ai-course-learning-assistant"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-language-learning-tutor",
+    "name": "AI Language Learning Tutor",
+    "category": "Education and Learning",
+    "repo": "abhia1137/ai-language-learning-tutor",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-09-26T13:40:04.791Z",
+    "lastRunAt": "2026-09-26T13:40:05.526Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
