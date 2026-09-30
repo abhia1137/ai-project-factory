@@ -26,7 +26,16 @@
     "ai-course-learning-assistant",
     "ai-language-learning-tutor"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-local-business-website-chatbot",
+    "name": "AI Local Business Website Chatbot",
+    "category": "Business and Consultancy",
+    "repo": "abhia1137/ai-local-business-website-chatbot",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-09-30T15:44:42.261Z",
+    "lastRunAt": "2026-09-30T15:44:42.640Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
