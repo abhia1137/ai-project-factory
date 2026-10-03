@@ -24,18 +24,10 @@
     "ai-content-calendar-generator",
     "ai-youtube-video-summarizer",
     "ai-course-learning-assistant",
-    "ai-language-learning-tutor"
+    "ai-language-learning-tutor",
+    "ai-local-business-website-chatbot"
   ],
-  "active": {
-    "slug": "ai-local-business-website-chatbot",
-    "name": "AI Local Business Website Chatbot",
-    "category": "Business and Consultancy",
-    "repo": "abhia1137/ai-local-business-website-chatbot",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-09-30T15:44:42.261Z",
-    "lastRunAt": "2026-10-02T15:32:54.895Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -300,6 +292,17 @@
       "startedAt": "2026-09-26T13:40:04.791Z",
       "lastRunAt": "2026-09-28T17:28:42.436Z",
       "completedAt": "2026-09-29T15:30:49.228Z"
+    },
+    {
+      "slug": "ai-local-business-website-chatbot",
+      "name": "AI Local Business Website Chatbot",
+      "category": "Business and Consultancy",
+      "repo": "abhia1137/ai-local-business-website-chatbot",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-09-30T15:44:42.261Z",
+      "lastRunAt": "2026-10-02T15:32:54.895Z",
+      "completedAt": "2026-10-03T14:11:04.265Z"
     }
   ]
 }
