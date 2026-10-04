@@ -27,7 +27,16 @@
     "ai-language-learning-tutor",
     "ai-local-business-website-chatbot"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-cover-letter-generator",
+    "name": "AI cover letter generator",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-cover-letter-generator",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-10-04T14:41:56.253Z",
+    "lastRunAt": "2026-10-04T14:41:56.548Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
