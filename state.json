@@ -28,7 +28,16 @@
     "ai-local-business-website-chatbot",
     "ai-cover-letter-generator"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-linkedin-about-section-generator",
+    "name": "AI linkedIn About section generator",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-linkedin-about-section-generator",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-10-08T16:12:31.425Z",
+    "lastRunAt": "2026-10-08T16:12:31.762Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
