@@ -26,18 +26,10 @@
     "ai-course-learning-assistant",
     "ai-language-learning-tutor",
     "ai-local-business-website-chatbot",
-    "ai-cover-letter-generator"
+    "ai-cover-letter-generator",
+    "ai-linkedin-about-section-generator"
   ],
-  "active": {
-    "slug": "ai-linkedin-about-section-generator",
-    "name": "AI linkedIn About section generator",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-linkedin-about-section-generator",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-10-08T16:12:31.425Z",
-    "lastRunAt": "2026-10-10T15:06:44.024Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -324,6 +316,17 @@
       "startedAt": "2026-10-04T14:41:56.253Z",
       "lastRunAt": "2026-10-06T15:45:50.149Z",
       "completedAt": "2026-10-07T16:10:56.378Z"
+    },
+    {
+      "slug": "ai-linkedin-about-section-generator",
+      "name": "AI linkedIn About section generator",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-linkedin-about-section-generator",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-10-08T16:12:31.425Z",
+      "lastRunAt": "2026-10-10T15:06:44.024Z",
+      "completedAt": "2026-10-11T15:26:33.516Z"
     }
   ]
 }
