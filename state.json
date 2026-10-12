@@ -29,7 +29,16 @@
     "ai-cover-letter-generator",
     "ai-linkedin-about-section-generator"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-job-matching-platform",
+    "name": "AI job matching platform",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-job-matching-platform",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-10-12T18:45:54.733Z",
+    "lastRunAt": "2026-10-12T18:45:54.991Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
