@@ -27,18 +27,10 @@
     "ai-language-learning-tutor",
     "ai-local-business-website-chatbot",
     "ai-cover-letter-generator",
-    "ai-linkedin-about-section-generator"
+    "ai-linkedin-about-section-generator",
+    "ai-job-matching-platform"
   ],
-  "active": {
-    "slug": "ai-job-matching-platform",
-    "name": "AI job matching platform",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-job-matching-platform",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-10-12T18:45:54.733Z",
-    "lastRunAt": "2026-10-14T14:24:14.523Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -336,6 +328,17 @@
       "startedAt": "2026-10-08T16:12:31.425Z",
       "lastRunAt": "2026-10-10T15:06:44.024Z",
       "completedAt": "2026-10-11T15:26:33.516Z"
+    },
+    {
+      "slug": "ai-job-matching-platform",
+      "name": "AI job matching platform",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-job-matching-platform",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-10-12T18:45:54.733Z",
+      "lastRunAt": "2026-10-14T14:24:14.523Z",
+      "completedAt": "2026-10-15T14:01:53.649Z"
     }
   ]
 }
