@@ -30,7 +30,16 @@
     "ai-linkedin-about-section-generator",
     "ai-job-matching-platform"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-ats-score-checker",
+    "name": "AI ATS score checker",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-ats-score-checker",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-10-16T13:49:22.712Z",
+    "lastRunAt": "2026-10-16T13:49:22.945Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
