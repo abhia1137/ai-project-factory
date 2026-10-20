@@ -31,7 +31,16 @@
     "ai-job-matching-platform",
     "ai-ats-score-checker"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-interview-question-generator",
+    "name": "AI interview question generator",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-interview-question-generator",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-10-20T14:11:12.106Z",
+    "lastRunAt": "2026-10-20T14:11:13.399Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
