@@ -29,18 +29,10 @@
     "ai-cover-letter-generator",
     "ai-linkedin-about-section-generator",
     "ai-job-matching-platform",
-    "ai-ats-score-checker"
+    "ai-ats-score-checker",
+    "ai-interview-question-generator"
   ],
-  "active": {
-    "slug": "ai-interview-question-generator",
-    "name": "AI interview question generator",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-interview-question-generator",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-10-20T14:11:12.106Z",
-    "lastRunAt": "2026-10-22T14:24:50.305Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -360,6 +352,17 @@
       "startedAt": "2026-10-16T13:49:22.712Z",
       "lastRunAt": "2026-10-18T13:05:01.263Z",
       "completedAt": "2026-10-19T16:18:43.768Z"
+    },
+    {
+      "slug": "ai-interview-question-generator",
+      "name": "AI interview question generator",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-interview-question-generator",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-10-20T14:11:12.106Z",
+      "lastRunAt": "2026-10-22T14:24:50.305Z",
+      "completedAt": "2026-10-23T14:07:52.666Z"
     }
   ]
 }
