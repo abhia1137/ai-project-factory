@@ -32,7 +32,16 @@
     "ai-ats-score-checker",
     "ai-interview-question-generator"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-salary-negotiation-coach",
+    "name": "AI salary negotiation coach",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-salary-negotiation-coach",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-10-24T13:10:52.215Z",
+    "lastRunAt": "2026-10-24T13:10:52.965Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
