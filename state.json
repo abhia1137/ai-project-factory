@@ -30,18 +30,10 @@
     "ai-linkedin-about-section-generator",
     "ai-job-matching-platform",
     "ai-ats-score-checker",
-    "ai-interview-question-generator"
+    "ai-interview-question-generator",
+    "ai-salary-negotiation-coach"
   ],
-  "active": {
-    "slug": "ai-salary-negotiation-coach",
-    "name": "AI salary negotiation coach",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-salary-negotiation-coach",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-10-24T13:10:52.215Z",
-    "lastRunAt": "2026-10-26T15:57:50.619Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -372,6 +364,17 @@
       "startedAt": "2026-10-20T14:11:12.106Z",
       "lastRunAt": "2026-10-22T14:24:50.305Z",
       "completedAt": "2026-10-23T14:07:52.666Z"
+    },
+    {
+      "slug": "ai-salary-negotiation-coach",
+      "name": "AI salary negotiation coach",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-salary-negotiation-coach",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-10-24T13:10:52.215Z",
+      "lastRunAt": "2026-10-26T15:57:50.619Z",
+      "completedAt": "2026-10-27T15:12:34.622Z"
     }
   ]
 }
