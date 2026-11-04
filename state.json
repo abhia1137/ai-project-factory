@@ -32,18 +32,10 @@
     "ai-ats-score-checker",
     "ai-interview-question-generator",
     "ai-salary-negotiation-coach",
-    "ai-recruiter-email-generator"
+    "ai-recruiter-email-generator",
+    "ai-candidate-screening-assistant"
   ],
-  "active": {
-    "slug": "ai-candidate-screening-assistant",
-    "name": "AI candidate screening assistant",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-candidate-screening-assistant",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-11-01T15:53:05.080Z",
-    "lastRunAt": "2026-11-03T16:53:43.187Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -396,6 +388,17 @@
       "startedAt": "2026-10-28T15:48:06.958Z",
       "lastRunAt": "2026-10-30T15:42:25.980Z",
       "completedAt": "2026-10-31T15:11:07.567Z"
+    },
+    {
+      "slug": "ai-candidate-screening-assistant",
+      "name": "AI candidate screening assistant",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-candidate-screening-assistant",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-11-01T15:53:05.080Z",
+      "lastRunAt": "2026-11-03T16:53:43.187Z",
+      "completedAt": "2026-11-04T16:56:35.176Z"
     }
   ]
 }
