@@ -35,7 +35,16 @@
     "ai-recruiter-email-generator",
     "ai-candidate-screening-assistant"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-hr-policy-q-a-bot",
+    "name": "AI hR policy Q&A bot",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-hr-policy-q-a-bot",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-11-05T17:12:16.487Z",
+    "lastRunAt": "2026-11-05T17:12:16.822Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
