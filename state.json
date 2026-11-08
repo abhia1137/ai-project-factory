@@ -33,18 +33,10 @@
     "ai-interview-question-generator",
     "ai-salary-negotiation-coach",
     "ai-recruiter-email-generator",
-    "ai-candidate-screening-assistant"
+    "ai-candidate-screening-assistant",
+    "ai-hr-policy-q-a-bot"
   ],
-  "active": {
-    "slug": "ai-hr-policy-q-a-bot",
-    "name": "AI hR policy Q&A bot",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-hr-policy-q-a-bot",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-11-05T17:12:16.487Z",
-    "lastRunAt": "2026-11-07T15:31:04.210Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -408,6 +400,17 @@
       "startedAt": "2026-11-01T15:53:05.080Z",
       "lastRunAt": "2026-11-03T16:53:43.187Z",
       "completedAt": "2026-11-04T16:56:35.176Z"
+    },
+    {
+      "slug": "ai-hr-policy-q-a-bot",
+      "name": "AI hR policy Q&A bot",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-hr-policy-q-a-bot",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-11-05T17:12:16.487Z",
+      "lastRunAt": "2026-11-07T15:31:04.210Z",
+      "completedAt": "2026-11-08T15:51:20.807Z"
     }
   ]
 }
