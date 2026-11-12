@@ -34,18 +34,10 @@
     "ai-salary-negotiation-coach",
     "ai-recruiter-email-generator",
     "ai-candidate-screening-assistant",
-    "ai-hr-policy-q-a-bot"
+    "ai-hr-policy-q-a-bot",
+    "ai-employee-onboarding-assistant"
   ],
-  "active": {
-    "slug": "ai-employee-onboarding-assistant",
-    "name": "AI employee onboarding assistant",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-employee-onboarding-assistant",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-11-09T19:37:38.112Z",
-    "lastRunAt": "2026-11-11T16:57:49.118Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -420,6 +412,17 @@
       "startedAt": "2026-11-05T17:12:16.487Z",
       "lastRunAt": "2026-11-07T15:31:04.210Z",
       "completedAt": "2026-11-08T15:51:20.807Z"
+    },
+    {
+      "slug": "ai-employee-onboarding-assistant",
+      "name": "AI employee onboarding assistant",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-employee-onboarding-assistant",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-11-09T19:37:38.112Z",
+      "lastRunAt": "2026-11-11T16:57:49.118Z",
+      "completedAt": "2026-11-12T17:26:21.738Z"
     }
   ]
 }
