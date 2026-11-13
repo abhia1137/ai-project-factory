@@ -37,7 +37,16 @@
     "ai-hr-policy-q-a-bot",
     "ai-employee-onboarding-assistant"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-exit-interview-analyzer",
+    "name": "AI exit interview analyzer",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-exit-interview-analyzer",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-11-13T17:01:08.330Z",
+    "lastRunAt": "2026-11-13T17:01:09.010Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
