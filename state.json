@@ -35,18 +35,10 @@
     "ai-recruiter-email-generator",
     "ai-candidate-screening-assistant",
     "ai-hr-policy-q-a-bot",
-    "ai-employee-onboarding-assistant"
+    "ai-employee-onboarding-assistant",
+    "ai-exit-interview-analyzer"
   ],
-  "active": {
-    "slug": "ai-exit-interview-analyzer",
-    "name": "AI exit interview analyzer",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-exit-interview-analyzer",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-11-13T17:01:08.330Z",
-    "lastRunAt": "2026-11-15T16:09:23.536Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -432,6 +424,17 @@
       "startedAt": "2026-11-09T19:37:38.112Z",
       "lastRunAt": "2026-11-11T16:57:49.118Z",
       "completedAt": "2026-11-12T17:26:21.738Z"
+    },
+    {
+      "slug": "ai-exit-interview-analyzer",
+      "name": "AI exit interview analyzer",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-exit-interview-analyzer",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-11-13T17:01:08.330Z",
+      "lastRunAt": "2026-11-15T16:09:23.536Z",
+      "completedAt": "2026-11-16T19:24:17.952Z"
     }
   ]
 }
