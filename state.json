@@ -38,7 +38,16 @@
     "ai-employee-onboarding-assistant",
     "ai-exit-interview-analyzer"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-skill-gap-analyzer",
+    "name": "AI skill gap analyzer",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-skill-gap-analyzer",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-11-17T18:17:56.804Z",
+    "lastRunAt": "2026-11-17T18:17:57.126Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
