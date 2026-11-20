@@ -36,18 +36,10 @@
     "ai-candidate-screening-assistant",
     "ai-hr-policy-q-a-bot",
     "ai-employee-onboarding-assistant",
-    "ai-exit-interview-analyzer"
+    "ai-exit-interview-analyzer",
+    "ai-skill-gap-analyzer"
   ],
-  "active": {
-    "slug": "ai-skill-gap-analyzer",
-    "name": "AI skill gap analyzer",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-skill-gap-analyzer",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-11-17T18:17:56.804Z",
-    "lastRunAt": "2026-11-19T18:03:30.868Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -444,6 +436,17 @@
       "startedAt": "2026-11-13T17:01:08.330Z",
       "lastRunAt": "2026-11-15T16:09:23.536Z",
       "completedAt": "2026-11-16T19:24:17.952Z"
+    },
+    {
+      "slug": "ai-skill-gap-analyzer",
+      "name": "AI skill gap analyzer",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-skill-gap-analyzer",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-11-17T18:17:56.804Z",
+      "lastRunAt": "2026-11-19T18:03:30.868Z",
+      "completedAt": "2026-11-20T17:38:31.636Z"
     }
   ]
 }
