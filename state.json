@@ -39,7 +39,16 @@
     "ai-exit-interview-analyzer",
     "ai-skill-gap-analyzer"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-career-roadmap-generator",
+    "name": "AI career roadmap generator",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-career-roadmap-generator",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-11-21T16:39:46.779Z",
+    "lastRunAt": "2026-11-21T16:39:47.139Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
