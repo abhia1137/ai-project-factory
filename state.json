@@ -37,18 +37,10 @@
     "ai-hr-policy-q-a-bot",
     "ai-employee-onboarding-assistant",
     "ai-exit-interview-analyzer",
-    "ai-skill-gap-analyzer"
+    "ai-skill-gap-analyzer",
+    "ai-career-roadmap-generator"
   ],
-  "active": {
-    "slug": "ai-career-roadmap-generator",
-    "name": "AI career roadmap generator",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-career-roadmap-generator",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-11-21T16:39:46.779Z",
-    "lastRunAt": "2026-11-23T20:58:50.495Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -456,6 +448,17 @@
       "startedAt": "2026-11-17T18:17:56.804Z",
       "lastRunAt": "2026-11-19T18:03:30.868Z",
       "completedAt": "2026-11-20T17:38:31.636Z"
+    },
+    {
+      "slug": "ai-career-roadmap-generator",
+      "name": "AI career roadmap generator",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-career-roadmap-generator",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-11-21T16:39:46.779Z",
+      "lastRunAt": "2026-11-23T20:58:50.495Z",
+      "completedAt": "2026-11-24T20:01:14.694Z"
     }
   ]
 }
