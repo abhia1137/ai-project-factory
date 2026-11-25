@@ -40,7 +40,16 @@
     "ai-skill-gap-analyzer",
     "ai-career-roadmap-generator"
   ],
-  "active": null,
+  "active": {
+    "slug": "ai-portfolio-project-recommender",
+    "name": "AI portfolio project recommender",
+    "category": "Job, Career, HR",
+    "repo": "abhia1137/ai-portfolio-project-recommender",
+    "day": 2,
+    "totalCommits": 0,
+    "startedAt": "2026-11-25T19:01:19.100Z",
+    "lastRunAt": "2026-11-25T19:01:19.331Z"
+  },
   "history": [
     {
       "slug": "ai-resume-optimizer",
