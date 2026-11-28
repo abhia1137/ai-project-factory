@@ -38,18 +38,10 @@
     "ai-employee-onboarding-assistant",
     "ai-exit-interview-analyzer",
     "ai-skill-gap-analyzer",
-    "ai-career-roadmap-generator"
+    "ai-career-roadmap-generator",
+    "ai-portfolio-project-recommender"
   ],
-  "active": {
-    "slug": "ai-portfolio-project-recommender",
-    "name": "AI portfolio project recommender",
-    "category": "Job, Career, HR",
-    "repo": "abhia1137/ai-portfolio-project-recommender",
-    "day": 4,
-    "totalCommits": 0,
-    "startedAt": "2026-11-25T19:01:19.100Z",
-    "lastRunAt": "2026-11-27T18:45:03.765Z"
-  },
+  "active": null,
   "history": [
     {
       "slug": "ai-resume-optimizer",
@@ -468,6 +460,17 @@
       "startedAt": "2026-11-21T16:39:46.779Z",
       "lastRunAt": "2026-11-23T20:58:50.495Z",
       "completedAt": "2026-11-24T20:01:14.694Z"
+    },
+    {
+      "slug": "ai-portfolio-project-recommender",
+      "name": "AI portfolio project recommender",
+      "category": "Job, Career, HR",
+      "repo": "abhia1137/ai-portfolio-project-recommender",
+      "day": 4,
+      "totalCommits": 0,
+      "startedAt": "2026-11-25T19:01:19.100Z",
+      "lastRunAt": "2026-11-27T18:45:03.765Z",
+      "completedAt": "2026-11-28T17:25:38.920Z"
     }
   ]
 }
